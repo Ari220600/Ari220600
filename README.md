@@ -111,16 +111,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-<table>
-  <tr>
-    <td align="center" style="border:1px solid #ccc; border-radius:6px; padding:6px 12px;">
-      <a href="https://arindamchakraborty.netlify.app/" target="_blank">
-        <img src="https://ik.imagekit.io/leoblaze969/pf.ico.png?updatedAt=1745449509858" width="16" height="16" style="vertical-align:middle; margin-right:6px;" />
-        <strong style="color:black; text-decoration:none;">Visit My Portfolio</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%20-white?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAnFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////8FBQUAAAAJCQnY2Njc3Nz09PTf39/////o6Oju7u7z8/P7+/v8/Pzk5OTn5+fX19fU1NTExMTMzMzAwMDEhISkpKSkpKS0tLTc3Nzg4ODw8PD///8tLS1aWloZGRkiIiKioqLy8vLQ0NDV1dXJycm3t7ehISHT09OJVVwqAAAAAXRSTlMAQObYZgAAAEZJREFUGNNjYGBgZGJmYGRiYmBhZGBgYGRgYGBgZGJkYmVgYGRkYmNiZGAEJmJkYGSQkpmZgYGRmYGTg5ORDODk2NgAADgICcUUmxDYAAAAASUVORK5CYII=&labelColor=ffffff&color=ffffff&label=)](https://arindamchakraborty.netlify.app/)
+
 
 
 ###
