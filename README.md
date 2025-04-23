@@ -111,10 +111,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-<a href="https://arindamchakraborty.netlify.app/"
-   style="display: inline-flex; align-items: center; padding: 6px 12px; background-color: white; color: black; border: 1px solid #ccc; border-radius: 6px; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: background-color 0.2s ease;">
-  <img src="https://ik.imagekit.io/leoblaze969/pf.ico.png?updatedAt=1745449509858" alt="icon" class="w-4 h-4 mr-2" />
-  Portfolio
-</a>
+[![icon](https://ik.imagekit.io/leoblaze969/pf.ico.png?updatedAt=1745449509858)](https://arindamchakraborty.netlify.app/) **Portfolio**
 
 ###
