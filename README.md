@@ -111,6 +111,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-[![icon](https://ik.imagekit.io/leoblaze969/pf.ico.png?updatedAt=1745449509858)](https://arindamchakraborty.netlify.app/) **Portfolio**
+[![pf icon](https://ik.imagekit.io/leoblaze969/pf.ico.png?updatedAt=1745449509858)](https://arindamchakraborty.netlify.app/) **Visit My Portfolio**
+
 
 ###
