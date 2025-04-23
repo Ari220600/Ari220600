@@ -111,5 +111,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+<a href="https://arindamchakraborty.netlify.app/"
+   class="inline-flex items-center px-4 py-2 bg-white text-black border border-gray-300 rounded-md shadow-sm hover:bg-gray-100 transition">
+  <img src="https://ik.imagekit.io/leoblaze969/pf.ico.png?updatedAt=1745449509858" alt="icon" class="w-4 h-4 mr-2" />
+  Portfolio
+</a>
 
 ###
